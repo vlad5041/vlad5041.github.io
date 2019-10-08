@@ -6,9 +6,6 @@
       <header>
         <h1>Разработка сайтов</h1>
         <h2>Быстро и качественно</h2>
-        <figure>
-          <img src="https://vlad5041.github.io/assets/img/work/proj-1/studio.png">
-        </figure>
       </header>
       <h2>Наши работы</h2>
       <figure>
@@ -31,5 +28,5 @@
         <div data-block="chat" data-type="vkontakte" data-url="https://vk.com/vlad5041"></div>
       </div>
     ]]>
-    </turbo:content>
+  </turbo:content>
 </item>
