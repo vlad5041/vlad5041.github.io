@@ -17,7 +17,7 @@
           <img src="https://vlad5041.github.io/assets/img/work/proj-2/ask.png">
       </figure>
       <p>Сайт строительной компании АСК Вектор</p>
-      <p>Хотите заказать создание сайта? Закажите обратный звонок!</p>
+      <p>Требуется сайт? Закажите обратный звонок и наши специалисты проконсультируют Вас!</p>
       <button formaction="mailto:vladuslav.gusev@gmail.com"
               data-background-color="#5B97B0"
               data-color="white"
