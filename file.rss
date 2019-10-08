@@ -5,36 +5,37 @@
      version="2.0">
     <channel>
         <item turbo="true">
-          <title>Разработка сайтов</title>
-          <link>https://vlad5041.github.io</link>
-          <turbo:content>
-            <![CDATA[
-              <header>
-                <h1>Разработка сайтов</h1>
-                <h2>Быстро и качественно</h2>
-              </header>
-              <h2>Наши работы</h2>
-              <figure>
-                  <img src="https://vlad5041.github.io/assets/img/work/proj-1/studio.png">
-              </figure>
-        	  <p>Сайт студии звукозаписи ЧП Studio</p>
-              <p>Хотите такой же сайт? <a href="tel:+7(961)539-24-26">Звоните нам!</a></p>
-              <figure>
-                  <img src="https://vlad5041.github.io/assets/img/work/proj-2/ask.png">
-              </figure>
-              <p>Сайт строительной компании АСК Вектор</p>
-              <p>Требуется сайт? Закажите обратный звонок и наши специалисты проконсультируют Вас!</p>
-              <button formaction="mailto:vladuslav.gusev@gmail.com"
-                      data-background-color="#5B97B0"
-                      data-color="white"
-                      data-primary="true">Заказать сайт</button>
-              <div data-block="widget-feedback" data-stick="false">
-                <div data-block="chat" data-type="whatsapp" data-url="https://wa.me/79186040407"></div>
-                <div data-block="chat" data-type="telegram" data-url="https://t.me/Vlad5041"></div>
-                <div data-block="chat" data-type="vkontakte" data-url="https://vk.com/vlad5041"></div>
-              </div>
-            ]]>
-          </turbo:content>
+            <title>Разработка сайтов</title>
+            <link>https://vlad5041.github.io</link>
+            <turbo:content>
+                <![CDATA[
+                    <header>
+                        <h1>Разработка сайтов</h1>
+                        <h2>Быстро и качественно</h2>
+                    </header>
+                    <div>
+                        <h2>Наши работы</h2>
+                        <figure>
+                          <img src="https://vlad5041.github.io/assets/img/work/proj-1/studio.png">
+                        </figure>
+                        <p>Сайт студии звукозаписи ЧП Studio</p>
+                        <p>Хотите такой же сайт? <a href="tel:+7(961)539-24-26">Звоните нам!</a></p>
+                        <figure>
+                          <img src="https://vlad5041.github.io/assets/img/work/proj-2/ask.png">
+                        </figure>
+                        <p>Сайт строительной компании АСК Вектор</p>
+                        <p>Требуется сайт? Закажите обратный звонок и наши специалисты проконсультируют Вас!</p>
+                        <button formaction="mailto:vladuslav.gusev@gmail.com"
+                              data-background-color="#5B97B0"
+                              data-color="white"
+                              data-primary="true">Заказать сайт</button>
+                        <div data-block="widget-feedback" data-stick="false">
+                        <div data-block="chat" data-type="whatsapp" data-url="https://wa.me/79186040407"></div>
+                        <div data-block="chat" data-type="telegram" data-url="https://t.me/Vlad5041"></div>
+                        <div data-block="chat" data-type="vkontakte" data-url="https://vk.com/vlad5041"></div>
+                    </div>
+                ]]>
+            </turbo:content>
         </item>
     </channel>
 </rss>
