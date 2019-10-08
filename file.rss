@@ -4,12 +4,12 @@
      xmlns:turbo="http://turbo.yandex.ru"
      version="2.0">
     <channel>
+    <title>Разработка сайтов</title>
         <item  turbo="true">
-            <author>Гусев Владислав</author>
-            <category>Технологии</category>
-            <pubDate>Tue, 08 Oct 2019 15:35:00 +0300</pubDate>
-            <title>Разработка сайтов</title>
             <link>https://vlad5041.github.io</link>
+            <pubDate>Tue, 08 Oct 2019 15:35:00 +0300</pubDate>
+            <author>Гусев Владислав</author>
+            <category>Сайты</category>
             <turbo:content>
                 <![CDATA[
                     <header>
